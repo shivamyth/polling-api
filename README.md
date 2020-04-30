@@ -37,7 +37,7 @@ This is a repository Made in Coding Ninjas Mock Test 3.
 
 
 ## Setup
-- In the terminal, run `git clone  `.
+- In the terminal, run `git clone https://github.com/shivamyth/polling-api.git  `.
 - run `npm i`.
 - run `npm start`.
 - Now You are set to go!
